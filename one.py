@@ -1,2 +1,2 @@
 for x in range(10): 
-    print("how are you???_
+    print("how are you???")
